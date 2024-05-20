@@ -14,13 +14,17 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ## Output:
 ### 1-Norm of a Matrix
 ![image](https://github.com/Antonyabishek2004/Norm-of-a-matrix/assets/138849620/89dc797e-2fb6-4bd4-b241-8cd79cc44543)
+![image](https://github.com/Antonyabishek2004/Norm-of-a-matrix/assets/138849620/1f94ce09-9c59-434a-a875-ef5c98c4195b)
+
 
 ### 2-Norm of a Matrix
 ![image](https://github.com/Antonyabishek2004/Norm-of-a-matrix/assets/138849620/db20db17-8e2e-4264-b09a-852b9f92f10a)
+![image](https://github.com/Antonyabishek2004/Norm-of-a-matrix/assets/138849620/24a8c0fe-3704-4a4e-aa11-b10933603bc5)
 
 
 ### Infinity Norm of a Matrix
 ![image](https://github.com/Antonyabishek2004/Norm-of-a-matrix/assets/138849620/2642ea95-32c6-497b-9fcc-516880d0a69a)
+![image](https://github.com/Antonyabishek2004/Norm-of-a-matrix/assets/138849620/08d56c14-4434-4a01-9f83-783dae17645a)
 
 
 ## Result
